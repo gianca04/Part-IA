@@ -2,7 +2,7 @@
 
 #Finalidad de la APP:
 - Part-IA utiliza Firestore para almacenar un conjunto de recetas, las cuales seran mostradas dentro de la interfaz.
-- Part-IA cuenta con una apartado de "Chat" donde se integra el API de gemini para poder generar recetas en base a una fotografias o texto.
+- Part-IA cuenta con una apartado de "Chat" donde se integra el API de gemini para poder generar recetas en base a una fotografia o texto.
 
 # Estructura en Firebase:
 recetas {
