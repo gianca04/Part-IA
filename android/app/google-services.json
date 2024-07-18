@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "831367630091",
+    "project_id": "partia-d71e4",
+    "storage_bucket": "partia-d71e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831367630091:android:abec3e0bc4234352e6a60e",
+        "android_client_info": {
+          "package_name": "com.part_ia.part_ia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKj3UnkO-wHia4DMpYNPg9eFd6e9c77hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831367630091:android:f130a6315fc459d5e6a60e",
+        "android_client_info": {
+          "package_name": "com.partia.partia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKj3UnkO-wHia4DMpYNPg9eFd6e9c77hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
