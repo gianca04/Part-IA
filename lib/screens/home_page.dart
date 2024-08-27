@@ -6,7 +6,7 @@ import 'package:part_ia/widgets/bottom_nav_bar.dart';
 import 'package:provider/provider.dart';
 import '../providers/usuario_provider.dart';
 
-String apiKey = 'AIzaSyDE_IvbK3BRi0605Q_FwKfQZgqGaD0pUfk';
+String apiKey = 'YOUR KEY';
 
 class HomeScreen extends StatefulWidget {
   @override
